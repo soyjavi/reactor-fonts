@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "repository": "https://github.com/soyjavi/reactor-fonts.git",
-  "main": "dist/Circular-SP-Book.css",
+  "main": "dist/Circular-SP-Book.ttf",
   "files": [
     "dist/*"
   ],
