@@ -1,6 +1,6 @@
 {
   "name": "@soyjavi/reactor-fonts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": "https://github.com/soyjavi/reactor-fonts.git",
   "main": "dist/Circular-SP-Book.ttf",
